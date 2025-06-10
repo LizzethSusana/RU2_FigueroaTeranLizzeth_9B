@@ -4,3 +4,4 @@ Parrafo 1 de main
 Parrafo 2 de main
 
 Parrafo #1 en hotfix
+Parrafo #1 en user1
